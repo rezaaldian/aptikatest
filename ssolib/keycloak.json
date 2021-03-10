@@ -1,0 +1,11 @@
+{
+  "realm": "demo",
+  "auth-server-url": "https://sso.jabarprov.go.id:8443/",
+  "ssl-required": "none",
+  "resource": "apsso",
+  "realm-public-key": "-__VP8qdbF2vmLhavYm6ys9y_bAvTJAPwAJnQ0HYbcA",
+  "client-secret": "9067face-df7a-4d58-aee5-ad9388f01fab",
+  "redirect_uri": "http://localhost/apsso/authcode_callback.php",
+  "public-client": false,
+  "use-resource-role-mappings": true
+}
